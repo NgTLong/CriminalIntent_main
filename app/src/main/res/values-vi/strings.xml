@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Hồ sơ tội phạm</string>
+    <string name="crime_title_hint">Nhập tên tội phạm.</string>
+    <string name="crime_title_label">Tiêu đề</string>
+    <string name="crime_details_label">Thông tin chi tiết</string>
+    <string name="crime_solved_label">Đã giải quyết</string>
+    <string name="crime_photo_button_description">Chụp ảnh hiện trường vụ án</string>
+    <string name="crime_photo_no_image_description">Ảnh hiện trường vụ án (chưa đặt)</string>
+    <string name="crime_photo_image_description">Ảnh hiện trường vụ án (đã đặt)</string>
+    <string name="new_crime">Tội mới</string>
+    <string name="crime_suspect_text">Chọn nghi phạm</string>
+    <string name="crime_report_text">Gửi báo cáo phạm tội</string>
+    <string name="crime_report">%1$s!
+        Vụ việc được phát hiện vào %2$s. %3$s, và %4$s
+    </string>
+    <string name="crime_report_solved">Vụ việc đã được giải quyết</string>
+    <string name="crime_report_unsolved">Vụ việc chưa được giải quyết</string>
+    <string name="crime_report_no_suspect">Không có nghi phạm.</string>
+    <string name="crime_report_suspect">Nghi phạm là %s.</string>
+    <string name="crime_report_subject">Hồ sơ tội phạm báo cáo phạm tội</string>
+    <string name="send_report">Gửi báo cáo phạm tội qua</string>
+</resources>
